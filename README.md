@@ -1,4 +1,4 @@
-# :sparkles:@2030/admin-layout-v
+# :sparkles:@2030/admin-v-tab
 
 ![npm (scoped)](https://img.shields.io/npm/v/@2030/admin-v-tab)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Jun2030/admin-v-tab/npm-publish-prod)
