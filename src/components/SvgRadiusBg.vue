@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import type { ComputedRef } from 'vue';
-import { computed } from 'vue';
+import type { ComputedRef } from 'vue-demi';
+import { computed } from 'vue-demi';
 import { mixColor } from '@/utils';
 
 const props = withDefaults(defineProps<Props>(), {
