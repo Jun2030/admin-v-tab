@@ -4,7 +4,6 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Jun2030/admin-v-tab/npm-publish-prod)
 ![NPM](https://img.shields.io/npm/l/@2030/admin-v-tab)
 ![GitHub top language](https://img.shields.io/github/languages/top/Jun2030/admin-v-tab)
-![npm bundle size](https://img.shields.io/bundlephobia/min/@2030/admin-v-tab)
 ![npm](https://img.shields.io/npm/dt/@2030/admin-v-tab)
 
 > 针对Vue3版,适用管理端的通用tab栏
