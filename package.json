@@ -1,7 +1,7 @@
 {
   "name": "@2030/admin-v-tab",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "ZiJun's common tab for admin projects",
   "author": "ZiJun<zijun2030@163.com>",
   "license": "MIT",
